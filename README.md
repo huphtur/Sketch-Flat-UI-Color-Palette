@@ -1,14 +1,7 @@
-# Sketch Flat UI Color Palette
+# Flat UI Color Palette for Sketch
 
-![Flat UI Color Palette](Flat UI Color Palette.png)
+[Download the palette](https://github.com/huphtur/Sketch-Flat-UI-Color-Palette/archive/master.zip). Unzip, open in [Sketch](http://bohemiancoding.com/sketch/) and copy the palette into your own document. Use `Control + C` to quickly pick the color.
 
-Handy Flat UI Color Palette for [Bohemian Sketch](http://bohemiancoding.com/sketch/).
+[![Flat UI Color Palette](Flat UI Color Palette.png)](https://github.com/huphtur/Sketch-Flat-UI-Color-Palette/archive/master.zip)
 
-Based on these things:
-* http://flatuicolors.co
-* http://flatuicolors.com
-* http://designmodo.github.io/Flat-UI/
-
-Usage
------
-Download the [.sketch](Flat UI Color Palette.sketch) file, open and paste the color palette into your Sketch file. Use `Control + C` to quickly pick the color you want.
+Based on [these](http://flatuicolors.co) [things](http://flatuicolors.com), probably originated by Designmodo's [Flat UI](http://designmodo.com/flat/).
